@@ -1,4 +1,6 @@
-engines:
+
+   EMail: ve7jtb@ve7jtb.com
+   URI:   http://www.thread-safe.com/engines:
   golint:
     enabled: true
   gofmt:
